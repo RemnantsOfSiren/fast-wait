@@ -1,0 +1,33 @@
+{
+  "raw": "@rbxts/fast-wait",
+  "name": "@rbxts/fast-wait",
+  "version": "1.0.0",
+  "description": "A better alternative to wait()",
+  "main": "out/init.lua",
+  "types": "out/index.d.ts",
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@rbxts/fast-wait",
+    "name": "@rbxts/fast-wait",
+    "escapedName": "@rbxts%2ffast-wait",
+    "scope": "@rbxts",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "scripts": {
+    "prepublishOnly": "rbxtsc"
+  },
+  "keywords": [
+	  "FastWait"
+  ],
+  "author": "siren10",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@rbxts/types": "^1.0.388"
+  }
+}
