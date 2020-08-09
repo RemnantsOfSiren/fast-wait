@@ -1,0 +1,1 @@
+export function FastWait(t?: number): [number, number];

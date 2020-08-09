@@ -1,8 +1,8 @@
 {
   "raw": "@rbxts/fast-wait",
   "name": "@rbxts/fast-wait",
-  "version": "1.0.0",
-  "description": "A better alternative to wait()",
+  "version": "1.0.3",
+  "description": "A better alternative to wait() -Credits to CloneTrooper for the lua",
   "main": "out/init.lua",
   "types": "out/index.d.ts",
   "_requested": {
@@ -20,7 +20,7 @@
     "prepublishOnly": "rbxtsc"
   },
   "keywords": [
-	  "FastWait"
+    "FastWait"
   ],
   "author": "siren10",
   "license": "ISC",
@@ -29,5 +29,14 @@
   },
   "devDependencies": {
     "@rbxts/types": "^1.0.388"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bemery2/fast-wait.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bemery2/fast-wait/issues"
+  },
+  "homepage": "https://github.com/bemery2/fast-wait#readme",
+  "dependencies": {}
 }
