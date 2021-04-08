@@ -1,4 +1,6 @@
-Didn't want to rely on wait, so ended up trying to port FastWait
+Credit - Clonetrooper for the Lua
+
+Simple TS port
 
 ```ts
 import { FastWait } from '@rbxtsc/fast-wait'
